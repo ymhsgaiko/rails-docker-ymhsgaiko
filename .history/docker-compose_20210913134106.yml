@@ -1,0 +1,6 @@
+version: '3'
+services:
+  db:
+    image: mysql:8.benoit93260/mysql-server8.0.19command: --defauilt-authentication-plugin=mysql_native_password
+    volumes:
+      -

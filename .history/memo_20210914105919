@@ -1,0 +1,1 @@
+heroku config:add APP_DATABASE='heroku_ce65f98b52a405c! -a ra

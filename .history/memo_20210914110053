@@ -1,0 +1,5 @@
+heroku config:add APP_DATABASE='heroku_ce65f98b52a405c' -a rails-docker-ymhsgaiko
+
+heroku config:add APP_DATABASE_USERNAME='b24abf1da49825' -a rails-docker-ymhsgaiko
+
+heroku config:add APP_DATABASE_USERNAME='b24abf1da49825' -a rails-docker-ymhsgaiko
